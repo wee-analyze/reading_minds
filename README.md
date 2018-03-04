@@ -15,4 +15,4 @@ Recommendation Systems from scratch. The reason I am uploading it is because I w
 that I have knowledge in and have done on other machine learning projects. 
 
 
-* I have not uploaded my answers for the assignments so nobody can plagiarize my answers
+* I have not uploaded my answers for the assignment so they can't be plagiarized.
